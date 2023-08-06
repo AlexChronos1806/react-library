@@ -52,3 +52,8 @@ background-color: #0e76a8 ;
     pointer-events: none;
     cursor: default;
  }
+
+ [type='button']:hover {
+    opacity: 1;
+    background-color: #68a9cc;
+}
